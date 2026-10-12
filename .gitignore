@@ -1,0 +1,13 @@
+# Runtime data
+logs/
+state/
+
+# Local configs that may contain real webhook URLs or addresses
+config/*.local.conf
+*.local.conf
+
+# Editor / OS noise
+.vscode/
+.idea/
+*.swp
+.DS_Store
